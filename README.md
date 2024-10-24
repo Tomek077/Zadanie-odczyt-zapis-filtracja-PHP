@@ -1,5 +1,3 @@
-Oczywiście! Poniżej znajduje się zaktualizowana lista zadań z uproszczonymi instrukcjami dotyczącymi commitów. Po ukończeniu każdego zadania **utwórz commit** i **podaj jego nazwę** zgodnie z podanym przykładem.
-
 # Zadania do Samodzielnego Wykonania
 
 Poniżej znajduje się **5 zadań** do samodzielnego wykonania. Zadania są stopniowane pod względem trudności. Wykonuj je po kolei, każde kolejne zadanie bazuje na poprzednim. **Po ukończeniu każdego zadania utwórz commit i podaj jego nazwę**.
